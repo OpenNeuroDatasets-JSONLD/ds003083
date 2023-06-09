@@ -1,6 +1,12 @@
 {
   "age": {
     "LongName": "Age",
-    "Description": "Age at first study session"
+    "Description": "Age at first study session",
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:Age",
+        "Label": ""
+      }
+    }
   }
 }
